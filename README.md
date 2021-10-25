@@ -9,5 +9,5 @@ Escrito en Python usando [SLY](https://sly.readthedocs.io/en/latest/sly.html) pa
 Ejecutar el archivo `parser.py` con Python3.
 
 ```bash
-	python3 parser.py
+python3 parser.py
 ```
